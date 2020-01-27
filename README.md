@@ -1,2 +1,24 @@
-# MachineLearning-AnalisisPredictivo
-Uso de VUE para crear webApp y las prestaciones de Google IA para realizar MachineLearning en la nube
+# fabrica-memes
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
